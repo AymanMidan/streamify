@@ -16,5 +16,6 @@ Streamify est une application de streaming en JavaFX qui permet aux utilisateurs
 4. Exécutez `Main.java`.
 
 ## Captures d'écran
-![Page de connexion](images/login.png)
-![Page d'accueil](images/home.png)
+![Page de connexion](images/connex.png)
+![Page d'inscription](images/inscp.png)
+![Page d'accueil](images/acceuil.png)
